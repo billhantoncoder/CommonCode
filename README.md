@@ -1,8 +1,11 @@
 # CommonCode
 A small, lightweight coding language that balances between readability and size
 
-# Windows PowerShell one-liner
-irm https://raw.githubusercontent.com/billhantoncoder/ccode/main/install.ps1 | iex
+## Quick Installation
 
-# macOS/Linux one-liner
-curl -fsSL https://raw.githubusercontent.com/billhantoncoder/ccode/main/install.sh | sh
+### Linux & macOS
+```bash
+curl -fsSL [https://raw.githubusercontent.com/billhantoncoder/CommonCode/main/install.sh](https://raw.githubusercontent.com/billhantoncoder/CommonCode/main/install.sh) | sh
+```
+### Windows
+irm [https://raw.githubusercontent.com/billhantoncoder/CommonCode/main/install.ps1](https://raw.githubusercontent.com/billhantoncoder/CommonCode/main/install.ps1) | iex
